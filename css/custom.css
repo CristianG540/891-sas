@@ -179,3 +179,7 @@ nav ul a, nav .brand-logo {
 
         text-align: justify;
     }
+
+.collapsible-body {
+    background-color: #FCFCFC;
+}
